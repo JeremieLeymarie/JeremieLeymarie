@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Full-stack developer. I'm mostly doing stuff in Typescript & Python, but I'm curious about everything.
+I'm a full-stack developer mostly doing stuff in Typescript & Python, but I'm curious about everything.
 
 Nowadays I avoid using Github as much as possible and my projects live on [Codeberg](https://codeberg.org/bob_bidou)
 
